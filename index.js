@@ -59,7 +59,7 @@ function makeSound(key)
                 tom4.play();
                   break;
 
-    default:alert("andha hai kya lodu!!");
+    default:alert("this is not specified!!");
 
   }
 
